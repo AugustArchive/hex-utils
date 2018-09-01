@@ -1,0 +1,8 @@
+{
+  "name": "hex-utils",
+  "description": "Converts hexadecimals to integers.",
+  "dependencies": {
+    "inquirer": "6.2.0"
+  },
+  "author": "August <augu@voided.pw>"
+}
